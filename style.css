@@ -31,6 +31,7 @@ li p {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  font-size: 2rem;
 }
 
 li a {
@@ -39,6 +40,7 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  font-size: 1.5rem;
 }
 
 li  a:hover {
@@ -94,7 +96,7 @@ figcaption {
   bottom: 20px;
   right: 20px;
   padding: 5px 15px;
-  font-size: .9em;
+  font-size: 1.1em;
   cursor: pointer;
   background-color: #C0E1E4;
   color: black;
@@ -291,11 +293,12 @@ body.page9 {
   justify-content: center;
   padding: 20px;
   text-align: center;
+  font-size: 1.2rem;
 }
 
 .center-item {
    /* Highlight center item */
-  font-size: 15px;
+  font-size: 20px;
   font-weight: bold;
   color: black;
   grid-column: span 1.5;
